@@ -10,8 +10,11 @@ namespace TestGit_20160527
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
 			test2;
+=======
             test1;
+>>>>>>> ced4a010014ecfcd482b71a454e7819e19260a82
         }
     }
 }
