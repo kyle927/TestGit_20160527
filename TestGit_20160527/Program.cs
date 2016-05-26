@@ -10,6 +10,7 @@ namespace TestGit_20160527
     {
         static void Main(string[] args)
         {
+			test2;
         }
     }
 }
